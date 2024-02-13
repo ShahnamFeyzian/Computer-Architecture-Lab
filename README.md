@@ -8,5 +8,5 @@ Implementing ARM processor in verilog for the computer architecture laboratory c
 - Cache Memory (ARM-7)
 
 ## Contributors
-- [Shahriar Attar](#https://github.com/Shahriar-0)
-- [Shahnam Feyzian](#https://github.com/ShahnamFeyzian)
+- [Shahriar Attar](https://github.com/Shahriar-0)
+- [Shahnam Feyzian](https://github.com/ShahnamFeyzian)
