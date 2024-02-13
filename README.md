@@ -6,3 +6,7 @@ Implementing ARM processor in verilog for the computer architecture laboratory c
 - Forwarding Unit (ARM-5)
 - SRAM (ARM-6)
 - Cache Memory (ARM-7)
+
+## Contributors
+- [Shahriar Attar](#https://github.com/Shahriar-0)
+- [Shahnam Feyzian](#https://github.com/ShahnamFeyzian)
